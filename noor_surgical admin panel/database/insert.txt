@@ -1,0 +1,5 @@
+INSERT INTO `users` (`id` , `name`,  `email` , `password` , `user_type`) VALUES 
+('UAVjN46f0bvXSKquej85', 'Rifun', 'rifunkazi@gmail.com' , 'rifun22', 'user'),
+('ir7qjxTxaQm9PM5drpEn' ,  'Rifa' , 'rifasimon@gmail.com' , 'Rifa2002', 'user') , 
+('GE2LLAWjKATiQRLHaa6O' , 'Afroza', 'afrozarifa@gmail.com', 'Afroza22', 'user'), 
+('dSURvsPBVusCXQoCdMBG' , 'Simon', 'simon@gmail.com', 'Simon22', 'user');
